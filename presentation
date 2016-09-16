@@ -1,5 +1,5 @@
 * I've done a little traveling
-  <img data-src="worldmap.png"></img>
+#+REVEAL_HTML: <img data-src="https://i.imgur.com/8T6y6wD.png"></img>
 
 * Usually, people have one question:
   #+ATTR_REVEAL: :frag (none appear) :frag_idx (1 2)
@@ -14,8 +14,8 @@
     - (In first class!)
     - (Not quite free)
 * Acquisition
-  - Credit Card Signup Bonuses
-    - Signup and cancel
+  - Credit Card Sign-up Bonuses
+    - Sign-up and cancel
       - There is a small credit hit, but it only lasts a year (mine is still excellent after doing this for a couple of years)
     - Minimum spend
     - Make sure to exercise self control
@@ -35,13 +35,15 @@
   - Stopovers!
   - You have to pay a little ($)
 * Where to start
-  - Get your frequent flyer accounts!
+  - Get your frequent flier accounts!
     - You can make foreign accounts at the last minute for transfers
   - Move your spend to one credit card (Chase Sapphire is a very popular option)
     - Be responsible!
       - This system exists because credit cards are betting on you carrying a balance
     - Determine how valuable a mile is to you
       -  1 -  2 cents is where most people sit
+* Singapore Air Business Class (on my way to Hack Reactor!)
+#+REVEAL_HTML: <img src="https://i.imgur.com/0GIvTMo.jpg"></img>
 * Resources
   - The Points Guy
     - http://www.thepointsguy.com
